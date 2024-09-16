@@ -4,7 +4,7 @@
       "label": "Rita Dove Interview",
       "file_url": "https://apps.lib.jmu.edu/audiannotate/FF019.mp4",
       "duration": 2209,
-      "is_offline": "false"
+      "is_offline": false
     }
   },
   "auto_generate_web_page": true,
@@ -22,7 +22,7 @@
   "created_by": "absempere",
   "item_type": "Video",
   "label": "Imported Event 1",
-  "updated_at": "2024-09-13T15:39:54.238Z",
+  "updated_at": "2024-09-16T16:47:35.873Z",
   "updated_by": "absempere",
   "citation": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff019/manifest.json"
 }
